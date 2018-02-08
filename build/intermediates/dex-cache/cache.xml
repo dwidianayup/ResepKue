@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dhanz\Documents\09001\ResepKueKu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9636c432133666cfe20e3780eeb9d998c5a0bbb6">
+        <dex dex="C:\Users\Dhanz\Documents\09001\ResepKueKu\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c63bac6463a6257a69423d01b8ba608ed1ed4827\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dhanz\Documents\09001\ResepKueKu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Dhanz\Documents\09001\ResepKueKu\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_36d0185eff492abc54229764b3471008ff7057cd\classes.dex" />
+    </item>
+
+</items>
